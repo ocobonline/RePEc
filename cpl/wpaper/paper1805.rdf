@@ -1,0 +1,27 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Blake Allison
+Author-X-Name-First: Blake
+Author-X-Name-Last: Allison
+Author-Email: Baallis@emory.edu
+Author-Workplace-Name: Department of Economics, Emory University
+Author-Name: Adib Bagh
+Author-X-Name-First: Adib
+Author-X-Name-Last: Bagh
+Author-Email: 
+Author-Workplace-Name: Department of Economics and Mathematics, University of Kentucky
+Author-Name: Jason Lepore
+Author-X-Name-First: Jason
+Author-X-Name-Last: Lepore
+Author-Email: jlepore@calpoly.edu
+Author-Workplace-Name: Department of Economics, California Polytechnic State University
+Title: Invariant Equilibria and Classes of Equivalent Games
+Abstract: We consider classes of games for a ?fixed set of players with fi?xed strategy sets. For such classes, we explicate the concept of invariance, which is satisfi?ed when the set of Nash equilibria and corresponding  equilibrium payoffs are identical for each payoff function within the class. We introduce the condition superior payoff matching, which requires that at any given strategy pro?le, each player can match her highest payoff near that strategy profi?le across all games within that class. If a specifi?c game satisfi?es superior payoff matching, then its equilibria are invariant within a class of games with smaller sets of non-maximal discontinuities. This condition can be used to prove existence of Nash equilibrium. Using invariance, this existence result applies to games that are not quasiconcave or better reply secure. Additionally, superior payoff matching is adapted to show results for invariant symmetric equilibrium and invariant mixed strategy equilibrium.
+Length: 40 pages
+Creation-Date: 2018
+File-URL: https://www.cob.calpoly.edu/economics/wp-content/uploads/sites/27/2019/11/paper1805.pdf
+File-Format: Application/pdf
+File-Function: First version, 2018
+Number: 1805
+Classification-JEL: 
+Keywords: Invariance, Discontinuous games, Nash equilibrium, Sharing rules, Existence.
+Handle: RePEc:cpl:wpaper:1805

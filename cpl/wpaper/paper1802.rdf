@@ -1,0 +1,18 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Jonathan James
+Author-X-Name-First: Jonathan
+Author-X-Name-Last: James
+Author-Email: jjames04@calpoly.edu
+Author-Workplace-Name: Department of Economics, California Polytechnic State University
+Title: Estimation of Factor Structured Covariance Mixed Logit Models
+Abstract: Mixed logit models with normally distributed random coefficients are typically estimated under the extreme assumptions that either the random coefficients are completely independent or fully correlated. A factor structured covariance provides a middle ground between these two assumptions. However, because these models are more difficult to estimate, they are not frequently used to model preference heterogeneity. This paper develops a simple expectation maximization algorithm for estimating mixed logit models when preferences are generated from a factor structured covariance. The algorithm is easy to implement for both exploratory and
+confirmatory factor models. The estimator is applied to stated-preference survey data from residential energy customers (Train, 2007). Comparing the fit across five different models, which differed in their assumptions on the covariance of preferences, the results show that all three factor specifications produced a better fit of the data than the fully correlated model measured by BIC and two out of three performed better in terms of AIC.
+Length: 26 pages
+Creation-Date: 2018
+File-URL: https://www.cob.calpoly.edu/economics/wp-content/uploads/sites/27/2019/11/paper1802.pdf
+File-Format: Application/pdf
+File-Function: First version, 2018
+Number: 1802
+Classification-JEL: C02, C13, C25, C35, C38
+Keywords: Discrete Choice, Mixed Logit, EM Algorithm, Factor Models
+Handle: RePEc:cpl:wpaper:1802
