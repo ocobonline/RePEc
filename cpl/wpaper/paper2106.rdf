@@ -1,0 +1,27 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Tom Ahn
+Author-X-Name-First: Tom
+Author-X-Name-Last: Ahm
+Author-Email: sahn1@nps.edu
+Author-Workplace-Name: Graduate School Defense Management, Naval Postgraduate School.
+Author-Name: Esteban Aucejo
+Author-X-Name-First: Esteban
+Author-X-Name-Last: Aucejo
+Author-Email: Esteban.Aucejo@asu.edu
+Author-Workplace-Name: Department of Economics, Arizona State University
+Author-Name: Jonathan James
+Author-X-Name-First: Jonathan
+Author-X-Name-Last: James
+Author-Email: jjames04@calpoly.edu
+Author-Workplace-Name: Department of Economics, California Polytechnic State University
+Title: The Importance of Matching Effects for Labor Productivity: Evidence from Teacher-Student Interactions
+Abstract: We examine matching effects in worker productivity within the educational context by introducing a novel estimator for teacher value-added models that is more robust than previous estimators and is well-suited for multi-dimensional problems. Using this new framework, we show that teacher effectiveness is highly dependent on interaction effects between teachers and the individual characteristics of their students. For example, the difference in value-added between well and poorly-matched students for the median teacher is on the order of 0.1σ test score units. Moreover, matching effects are particularly salient for low-achieving students. The difference in teacher value-added between an effective and ineffective teacher in language arts for low-achieving students is twice as large as the dierence for high-achieving students. We also show that teacher rankings based on value-added are sensitive to classroom assignment due to match effects. To overcome this problem we propose an approach to rank teachers based on expected utility.
+Length: 64 pages
+Creation-Date: 2021
+File-URL: https://www.cob.calpoly.edu/economics/wp-content/uploads/sites/27/2021/12/paper2106.pdf
+File-Format: Application/pdf
+File-Function: First version, 2021
+Number: 2106
+Classification-JEL: I21, I24, J21
+Keywords: value-added, teacher, productivity, matching, multivariate shrinkage
+Handle: RePEc:cpl:wpaper:2106
