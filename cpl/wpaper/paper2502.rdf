@@ -14,7 +14,7 @@ Author-X-Name-First: Metin
 Author-X-Name-Last: Uyanik
 Author-Email: m.uyanik@uq.edu.au
 Author-Workplace-Name: School of Economics, University of Queensland
-Title: eparately Convex and Separately Continuous Preferences: On Results of Schmeidler, Shafer and Bergstrom-Parks-Rader
+Title: Separately Convex and Separately Continuous Preferences: On Results of Schmeidler, Shafer and Bergstrom-Parks-Rader
 Abstract: We provide necessary and sufficient conditions for a correspondence taking values in a finite-dimensional Euclidean space to be open so as to revisit the pioneering work of Schmeidler(1969), Shafer (1974), Shafer-Sonnenschein (1975) and Bergstrom-Rader-Parks (1976) to answer several questions they and their followers left open. We introduce the notion of separate convexity for a correspondence and use it to relate to classical notions of continuity while giving salience to the notion of separateness in the interplay of separate continuity and separate convexity of binary relations. As such, we provide a consolidation of the convexity-continuity postulates from a broad inter-disciplinary perspective and comment on how the qualified notions proposed here have implications of substantive interest for choice theory.
 Length: 23 pages
 Creation-Date: 2025
@@ -24,4 +24,5 @@ File-Function: First version, 2025
 Number: 2502
 Classification-JEL: C00, C02, D01, D11, D51, D81
 Keywords: Separately convex, separately continuous, linearly continuous, graph-continuous, section-continuous, preferences, correspondences
+
 Handle: RePEc:cpl:wpaper:2502
