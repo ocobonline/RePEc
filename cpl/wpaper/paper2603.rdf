@@ -1,0 +1,17 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Eduardo Zambrano
+Author-X-Name-First: Eduardo
+Author-X-Name-Last: Zambrano
+Author-Email: ezambran@calpoly.edu
+Author-Workplace-Name: Department of Economics, California Polytechnic State University
+Title: Difference-in-differences with fractional filtering
+Abstract: When programs select units after setbacks that fade gradually, differential untreated recovery can violate ordinary parallel trends. This note replaces first differencing with fractional filtering under a filtered mean balance assumption. Explicit autoregressive models show when this restriction holds while parallel trends fails; assistance after local labor-market downturns illustrates its potential. The filtered group difference identifies the first-period average treatment effect on the treated and a distributed-lag effect subsequently. Untreated pretreatment data can help choose the filter, supporting sensitivity analysis.
+Length: 10 pages
+Creation-Date: 2026
+File-URL: https://drive.google.com/file/d/1PCt_fxmuBmDE_78LOc0RBSBvRFnDMEBU/view?usp=sharing
+File-Format: Application/pdf
+File-Function: First version, 2026
+Number: 2603
+Classification-JEL: 
+Keywords:  
+Handle: RePEc:cpl:wpaper:2603
